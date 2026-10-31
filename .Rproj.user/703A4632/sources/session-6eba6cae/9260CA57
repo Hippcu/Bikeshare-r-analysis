@@ -3,24 +3,24 @@
     "path": "C:/Users/Camer/cammy/skool/R/BikeShare/rCommands.R",
     "project_path": "rCommands.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2612928518",
     "contents": "",
     "dirty": false,
     "created": 1793449014891.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "40,34",
-        "scrollLine": "27"
+        "cursorPosition": "39,44",
+        "scrollLine": "33"
     },
     "folds": "",
-    "lastKnownWriteTime": 1793446810,
+    "lastKnownWriteTime": 1793485133,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1793446810,
+    "last_content_update": 1793485133822,
     "read_only": false,
     "read_only_alternatives": []
 }
